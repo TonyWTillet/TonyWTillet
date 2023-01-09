@@ -17,7 +17,8 @@
 - etc...
 
 ## 💻 Current project
-- [financial-go](https://github.com/Jvillegasd/financial-go)
+- [Triathlon](https://github.com/TonyWTillet/triathlon)
+- [Gaelle](https://github.com/TonyWTillet/gaelle)
 
 ## 📚 Learning
 - Tailwind CSS
