@@ -3,7 +3,7 @@
 
 ## 💬 Ask me about
 - Backend web development (Laravel, Symfony, PHP)
-- Frontend web development (Vue.js)
+- Frontend web development (Angular)
 - Docker
 - Design Patterns
 - Gamer (League of Legends enthusiast 🎮)
