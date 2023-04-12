@@ -5,25 +5,31 @@
 - Backend web development (Laravel, Symfony, PHP)
 - Frontend web development (Vue.js)
 - Docker
-- Deep Learning and Machine Learning
-- Cloud Architecture
 - Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
+- Gamer (League of Legends enthusiast 🎮)
 
 ## 📅 Hobbies
-- Browse awards and behance 
-- Watch series and movies
+- Browse awwwards and behance 
+- Watch series 
 - Play videogames
-- etc...
+- Sports
 
-## 💻 Current project
-- [Triathlon](https://github.com/TonyWTillet/triathlon)
-- [Gaelle](https://github.com/TonyWTillet/gaelle)
+## 💻 Side projects
+- [Triathlon](https://github.com/TonyWTillet/triathlon) - [Website](https://triathlon.tony-tillet.com)
+- [Gaelle](https://github.com/TonyWTillet/gaelle) - [Website](https://gaelle.tony-tillet.com)
+- [Staff-piscines](https://github.com/TonyWTillet/Staf-piscine) - [Website](https://staff-piscines.tony-tillet.com)
+- [Facture-app](https://github.com/TonyWTillet/devis-app)
+- [Personal Backoffice](https://github.com/TonyWTillet/backoffice)
 
 ## 📚 Learning
+- Bootstrap
 - Tailwind CSS
+- PHP
+- OOP
 - Laravel
 - Symfony
+- Angular
+- Java
 
 ## 🎵 Spotify status
 
