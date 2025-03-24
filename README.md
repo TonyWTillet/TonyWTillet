@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">A web developer from France</h3>
+<h3 align="center">A Full Stack developer from France</h3>
 
 ## 💬 Ask me about
 - Backend web development (Laravel, Symfony, PHP)
@@ -17,7 +17,7 @@
 ## 💻 Side projects
 - [Triathlon](https://github.com/TonyWTillet/triathlon) - [Website](https://triathlon.tony-tillet.com)
 - [lolchallenges](https://github.com/TonyWTillet/lolchallenges) - [Website](https://lolchallenges.tony-tillet.com)
-- [Gaelle](https://github.com/TonyWTillet/gaelle) - [Website](https://gaelle.tony-tillet.com)
+- [Expertis](https://github.com/TonyWTillet/expertis) - [Website](https://cabinetexpertis.fr)
 - [Staff-piscines](https://github.com/TonyWTillet/Staf-piscine) - [Website](https://staff-piscines.tony-tillet.com)
 - [Facture-app](https://github.com/TonyWTillet/devis-app)
 - [Personal Backoffice](https://github.com/TonyWTillet/backoffice)
