@@ -15,13 +15,16 @@
 - Sports
 
 ## 💻 Side projects
-- [Triathlon](https://github.com/TonyWTillet/triathlon) - [Website](https://triathlon.tony-tillet.com)
+
+### Laravel/ Symfony projects
 - [lolchallenges](https://github.com/TonyWTillet/lolchallenges) - [Website](https://lolchallenges.tony-tillet.com)
 - [Expertis](https://github.com/TonyWTillet/expertis) - [Website](https://cabinetexpertis.fr)
 - [Staff-piscines](https://github.com/TonyWTillet/Staf-piscine) - [Website](https://staff-piscines.tony-tillet.com)
-- [Facture-app](https://github.com/TonyWTillet/devis-app)
 - [Personal Backoffice](https://github.com/TonyWTillet/backoffice)
+
+### Vue JS projects
 - [Calculateur de mensualité](https://github.com/TonyWTillet/mortgage-calculator)
+- [Color palette](https://github.com/TonyWTillet/random-color-palette)
 
 ## 📚 Learning
 - Bootstrap
