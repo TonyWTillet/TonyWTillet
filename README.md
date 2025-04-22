@@ -2,8 +2,10 @@
 <h3 align="center">A Full Stack developer from France</h3>
 
 ## 💬 Ask me about
+- Student at [EPITECH](https://www.epitech.eu/formation-alternance/master-of-science-post-bac3/#h-decouvrez-les-15-masters-of-science-d-epitech)
 - Backend web development (Laravel, Symfony, PHP)
-- Frontend web development (Angular)
+- Frontend web development (Vue.js)
+- Learning Python & AI
 - Docker
 - Design Patterns
 - Gamer (League of Legends enthusiast 🎮)
@@ -25,6 +27,10 @@
 ### Vue JS projects
 - [Calculateur de mensualité](https://github.com/TonyWTillet/mortgage-calculator)
 - [Color palette](https://github.com/TonyWTillet/random-color-palette)
+- [Recipe AI App](https://github.com/TonyWTillet/recipe-app)
+
+### Python & AI projects
+- [Recipe AI App](https://github.com/TonyWTillet/recipe-app-backend)
 
 ## 📚 Learning
 - Bootstrap
@@ -36,3 +42,5 @@
 - Angular
 - Java
 - Vue JS
+- Python
+- AI
