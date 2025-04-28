@@ -32,6 +32,9 @@
 ### Python & AI projects
 - [Recipe AI App](https://github.com/TonyWTillet/recipe-app-backend)
 
+### Java
+- [Apprends-en-Jouant - Projet Java Gamifié](https://github.com/TonyWTillet/code-learner)
+
 ## 📚 Learning
 - Bootstrap
 - Tailwind CSS
