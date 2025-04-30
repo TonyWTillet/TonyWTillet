@@ -29,6 +29,9 @@
 - [Color palette](https://github.com/TonyWTillet/random-color-palette)
 - [Recipe AI App](https://github.com/TonyWTillet/recipe-app)
 
+### React Native projets
+- [WeWallet](https://github.com/TonyWTillet/WeWallet)
+
 ### Python & AI projects
 - [Recipe AI App](https://github.com/TonyWTillet/recipe-app-backend)
 
